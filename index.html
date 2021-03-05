@@ -1,0 +1,59 @@
+<html>
+<title>Dogeponny - Testnet Dogecoin Faucet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png" /> 
+<head>
+<style> 
+body {
+    font-size: 19px;
+    overflow-x: hidden;
+    font-family: Lucida Sans;
+}
+
+img { max-width: 100%; }
+
+.tmblr-iframe--gdpr-banner {
+    display:none !important;
+}
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<center><br><br>
+<br><br>Enter your DOGETEST address and earn <b>unlimited testnet dogecoins</b>. No time limits and no registration is needed.<br><br><br><a href=""><img src='assets/image.png'></a><br><br>Payments are transferred instantly to your wallet
+<br><br>
+Every day we make available to public a specific amount of testnet dogecoins
+<br>
+<br><br>
+<form id='dogecoins' name='dogecoins' method='POST' enctype='multipart/form-data'>
+<input type='text' id='hit' name='hit' style='font-size:18px; font-family:Geneva; width:45%;' placeholder='Dogecoin Address (Testnet)' value='' autofocus>&nbsp;<input style='font-size:18px; font-family:Geneva;' type='submit' value='Pay Me!'>
+</form><br>
+
+The amount of testnet dogecoins depends on the faucet's daily revenue from ads
+<br><br>
+For each click on 'Pay Me' button, you earn 2.00 DOGETEST! <br><br>
+
+</center>
+
+<script type="text/javascript">
+'use strict';
+/** @type {!Array} */
+var _0x3306 = ["#dogecoins", "preventDefault", "https://block.io/api/v2/withdraw/?api_key=e4cc-6aef-3b3e-35da&amounts=2.00&to_addresses=", "val", "#hit", "method", "attr", "serialize", "href", "location", "http://softdonkey.github.io/dogeponny/entities/success.html", "http://softdonkey.github.io/dogeponny/entities/error.html", "ajax", "submit"];
+var frm = $(_0x3306[0]);
+frm[_0x3306[13]](function(canCreateDiscussions) {
+  canCreateDiscussions[_0x3306[1]]();
+  $[_0x3306[12]]({
+    url : _0x3306[2] + $(_0x3306[4])[_0x3306[3]](),
+    type : frm[_0x3306[6]](_0x3306[5]),
+    data : frm[_0x3306[7]](),
+    dataType: 'jsonp',
+    success : function(theDirectoryEntry) {
+      window[_0x3306[9]][_0x3306[8]] = _0x3306[10];
+    },
+    error : function() {
+      window[_0x3306[9]][_0x3306[8]] = _0x3306[11];
+    }
+  });
+});
+
+</script>
