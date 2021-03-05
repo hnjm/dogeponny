@@ -7,7 +7,7 @@ For each click on 'Pay Me' button, you can earn 2.00 DOGETEST!
 Payments are transferred instantly to your wallet<br>
 
 <b>Faucet URL</b>: https://softdonkey.github.io/dogeponny
-<br>
+<br><br>
 
 The amount of free testnet dogecoins depends on the faucet's daily ad revenue.<br>
 
