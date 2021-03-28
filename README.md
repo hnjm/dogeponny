@@ -2,6 +2,8 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/assets/image.png)
 
+<b>Faucet URL</b>: https://fsiamp.github.io/dogeponny
+
 For each click on 'Pay Me' button, you can earn 2.00 DOGETEST!
 
 Payments are transferred instantly to your wallet<br>
