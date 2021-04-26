@@ -1,6 +1,6 @@
 # Dogeponny - Testnet Dogecoin Faucet
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/assets/image.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/dogeponny/master/assets/image.png)
 
 <b>Faucet URL</b>: https://softdonkey.github.io/dogeponny
 
