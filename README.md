@@ -1,8 +1,8 @@
 # Dogeponny - Testnet Dogecoin Faucet
 
-![alt tag](https://raw.githubusercontent.com/softdonkey/dogeponny/master/assets/image.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/dogeponny/master/assets/image.png)
 
-<b>Faucet URL</b>: https://softdonkey.github.io/dogeponny
+<b>Faucet URL</b>: https://fsiamp.github.io/dogeponny
 
 For each click on 'Pay Me' button, you can earn 2.00 DOGETEST!
 
